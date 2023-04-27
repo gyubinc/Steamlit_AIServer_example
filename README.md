@@ -16,7 +16,7 @@ Fine-tuning data: 문장 유사도 평가 데이터(대회 제공)
 
 # 코드 설명
 
-[한국어 STS 대회]()에서 만든 AI 모델의 구현을 실제 서버와 연동하는 코드
+[한국어 STS 대회](https://github.com/gyubinc/level1_semantictextsimilarity-nlp-04.git)에서 만든 AI 모델의 구현을 실제 서버와 연동하는 코드
 
 # 실제 작동 화면
 
