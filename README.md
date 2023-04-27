@@ -10,9 +10,9 @@
 
 Server GPU: V100
 
-Pre-trained data: 'snunlp/KR-ELECTRA-discriminator'
+Pre-trained model: hugging face [snunlp/KR-ELECTRA-discriminator](https://huggingface.co/snunlp/KR-ELECTRA-discriminator) model
 
-Fine-tuning data: 문장 유사도 평가 데이터(대회 제공)
+Fine-tuning data: 문장 유사도 평가 데이터(대회 제공, private)
 
 주요 라이브러리: steamlit
 
